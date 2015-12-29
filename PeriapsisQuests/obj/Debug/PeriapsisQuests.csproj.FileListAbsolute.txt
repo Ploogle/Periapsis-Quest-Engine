@@ -1,0 +1,13 @@
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\bin\Debug\PeriapsisQuests.exe.config
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\bin\Debug\PeriapsisQuests.exe
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\bin\Debug\PeriapsisQuests.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.fMainForm.resources
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.fQuest.resources
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.Properties.Resources.resources
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.csproj.GenerateResource.Cache
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.exe
+c:\users\jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.pdb
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.fEditNode.resources
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.fQuestProperties.resources
+C:\Users\Jordan\documents\visual studio 2015\Projects\PeriapsisQuests\PeriapsisQuests\obj\Debug\PeriapsisQuests.PlayerStatCounter.resources
